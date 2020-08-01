@@ -17,11 +17,11 @@ body
 
 #quote-text
 {
-    font-size: 2vh;
+    font-size: 1.5vh;
     color: #fff;
     text-align: center;
     vertical-align: middle;
-    line-height: 2vh;
+    line-height: 1.5vh;
     font-family: 'Mulish', sans-serif;
 }
 
@@ -38,7 +38,7 @@ body
 {
     position: absolute;
     float: left;
-    top: 90%;
+    top: 94%;
     left: 50%;
-    transform: translate(-50%, -90%);
+    transform: translate(-50%, -94%);
 }
